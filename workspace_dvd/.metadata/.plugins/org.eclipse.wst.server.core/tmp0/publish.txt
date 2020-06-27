@@ -1,0 +1,9 @@
+#GlassFish v3 Prelude
+#Tue Dec 07 13:25:38 EST 2010
+org.eclipse.jst.jee.server\:Lesson29=/Users/yfain11/glassfishv3/glassfish/domains/domain1/eclipseApps/Lesson29
+org.eclipse.jst.jee.server\:Lesson28=/Users/yfain11/glassfishv3/glassfish/domains/domain1/eclipseApps/Lesson28
+org.eclipse.jst.jee.server\:Lesson27=/Users/yfain11/glassfishv3/glassfish/domains/domain1/eclipseApps/Lesson27
+org.eclipse.jst.jee.server\:Lesson35=/Users/yfain11/glassfishv3/glassfish/domains/domain1/eclipseApps/Lesson35
+org.eclipse.jst.jee.server\:Lesson34=/Users/yfain11/glassfishv3/glassfish/domains/domain1/eclipseApps/Lesson34
+org.eclipse.jst.jee.server\:Lesson32=/Users/yfain11/glassfishv3/glassfish/domains/domain1/eclipseApps/Lesson32
+org.eclipse.jst.jee.server\:Lesson31=/Users/yfain11/glassfishv3/glassfish/domains/domain1/eclipseApps/Lesson31

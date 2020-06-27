@@ -1,0 +1,48 @@
+package com.practicaljava.lesson31;
+
+import javax.jms.*;
+import javax.annotation.Resource;
+
+
+public class MessageSender2 {
+
+   // Inject into the variable factory the reference to MyTestConnectionFactory
+	@Resource(name="MyTestConnectionFactory")   
+	private ConnectionFactory factory;
+
+	@Resource(name="MyJMSTestQueue")
+    private Queue ioQueue;
+	
+    void sendMessage(String messageToSend){
+	 Session session=null;
+	 Connection connection=null;
+	 
+	 try{  
+	      connection = factory.createConnection();
+	      connection.start();
+
+	      session = connection.createSession( 
+	                          false, Session.AUTO_ACKNOWLEDGE);
+	      MessageProducer queueSender = session.createProducer(ioQueue);
+	      
+	      // Buy 200 shares of IBM in this example	      
+	      TextMessage outMsg = session.createTextMessage(messageToSend);
+	     
+	      queueSender.send(outMsg);
+	      queueSender.close();
+	      
+	      System.out.println("Successfully placed an order to purchase 300 shares of AAPL");
+	    }
+	    catch (JMSException e){
+	           System.out.println("Error: " + e.getMessage());
+	   }finally{
+	       try{
+	          session.close();
+	          connection.close();
+	       } catch (Exception e) {
+	          System.out.println("Can’t close JMS connection/session " + e.getMessage());
+	      }
+	    }	
+   }	
+	
+}

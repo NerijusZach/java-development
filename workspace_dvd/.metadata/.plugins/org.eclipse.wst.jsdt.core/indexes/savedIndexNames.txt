@@ -1,0 +1,4 @@
+INDEX VERSION 1.122+/Users/yfain11/practicalJava/workspace_dvd/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+847854979.index
+3689584822.index
+2901256224.index

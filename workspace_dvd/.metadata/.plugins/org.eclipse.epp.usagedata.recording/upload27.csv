@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,org.eclipse.jst.jsp.ui,1.1.501.v201008232032,"org.eclipse.jst.jsp.core.jspsource.source",1291744517917
+activated,editor,org.eclipse.jst.jsp.ui,1.1.501.v201008232032,"org.eclipse.jst.jsp.core.jspsource.source",1291744517952
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291744535678
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291744535884
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744561604
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744568361
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744585213
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744659644
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291744668945
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744672647
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744674620
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744678061
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744678139
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744691590
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson32",1291744696527
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson34",1291744696588
+error,log,,,"GlassFish: publishModule kind= 2  deltaKind=1 1 Lesson35",1291744696601
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744696607
+error,log,,,"GlassFish: deploy is failing=",1291744697631
+error,log,,,"cannot Deploy Lesson35",1291744697635
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744697743
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744793434
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291744796866
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744808828
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744820081
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744823360
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744977547
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291744977640
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744980502
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291744986034
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291745002467
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.stop",1291745004228
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.run",1291745009571
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1291745010557
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291745026619
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson32",1291745026624
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson34",1291745026636
+error,log,,,"GlassFish: publishModule kind= 2  deltaKind=2 1 Lesson35",1291745026638
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1291745026865
+error,log,,,"GlassFish: deploy is failing=",1291745027387
+error,log,,,"cannot Deploy Lesson35",1291745027392
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745027625
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1291745048966
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745116642
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745120416
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745148640
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745152711
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291745183043
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745183108
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745186156
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745476534
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291745476596
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291745483279
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.publish",1291745488124
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson32",1291745488126
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson34",1291745488173
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=2 1 Lesson35",1291745488181
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745488531
+error,log,,,"GlassFish: deploy is failing=",1291745488690
+error,log,,,"cannot Deploy Lesson35",1291745488726
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745493098
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.stop",1291745496123
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291745504818
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745506861
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745512061
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291745512129
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745523930
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745585657
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291745637727
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.run",1291745643445
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1291745644615
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291745656943
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson32",1291745659300
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson34",1291745659310
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=2 1 Lesson35",1291745659312
+error,log,,,"GlassFish: deploy is failing=",1291745659986
+error,log,,,"cannot Deploy Lesson35",1291745659988
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745660168
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745667657
+activated,editor,org.eclipse.wst.xml.ui,1.1.102.v201008251905,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1291745668615
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745670119
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745670215
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291745687729
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.publish",1291745693339
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson32",1291745693341
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson34",1291745693344
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=2 1 Lesson35",1291745693346
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745693689
+error,log,,,"GlassFish: deploy is failing=",1291745693722
+error,log,,,"cannot Deploy Lesson35",1291745693724
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745726991
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291745736705
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745755137
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745892574
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291745892630
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745903804
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745946077
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291745946139
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291745974426
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746017706
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746021324
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746031985
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746032047
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291746042805
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.publish",1291746045219
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson32",1291746045220
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson34",1291746045223
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=2 1 Lesson35",1291746045225
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746045545
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746049279
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291746056034
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746072723
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746072877
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746075837
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1291746075877
+activated,editor,org.eclipse.wst.xml.ui,1.1.102.v201008251905,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1291746258504
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291746259024
+closed,editor,org.eclipse.wst.xml.ui,1.1.102.v201008251905,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1291746259024
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746265498
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746270480
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746272030
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746273054
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746274884
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746277729
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746283929
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746284000
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291746290212
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746293177
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746301969
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291746302036
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746317582
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746327929
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746328016
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291746333362
+executed,command,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.publish",1291746338124
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson32",1291746338126
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=0 1 Lesson34",1291746338130
+error,log,,,"GlassFish: publishModule kind= 1  deltaKind=2 1 Lesson35",1291746338132
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746346170
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746349541
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746351141
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746355352
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746358587
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746834232
+activated,editor,org.eclipse.jst.jsp.ui,1.1.501.v201008232032,"org.eclipse.jst.jsp.core.jspsource.source",1291746839566
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746849122
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746863987
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746867194
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746940878
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291746942432
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291746943910
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747161176
+closed,editor,org.eclipse.jst.jsp.ui,1.1.501.v201008232032,"org.eclipse.jst.jsp.core.jspsource.source",1291747170124
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291747173757
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747179377
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747192716
+activated,editor,org.eclipse.jst.jsp.ui,1.1.501.v201008232032,"org.eclipse.jst.jsp.core.jspsource.source",1291747193251
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747205359
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747207704
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747212846
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747212917
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291747248179
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747266796
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747311210
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291747312481
+activated,editor,org.eclipse.jst.jsp.ui,1.1.501.v201008232032,"org.eclipse.jst.jsp.core.jspsource.source",1291747318994
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291747322577
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747335496
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747336994
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291747338627
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747340714
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747346610
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747358140
+activated,view,org.eclipse.wst.server.ui,1.1.205.v20100908,"org.eclipse.wst.server.ui.ServersView",1291747636063
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747636242
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747640210
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747641100
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1291747641893
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747651875
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747791766
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291747824653
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755452276
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291755456772
+activated,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.AllMarkersView",1291755472144
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755483762
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755494124
+started,bundle,org.eclipse.jdt.junit,3.6.0.v20100526-0800,"org.eclipse.jdt.junit",1291755505276
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291755513316
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755517734
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755529344
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291755529786
+activated,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.AllMarkersView",1291755535074
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291755538855
+started,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.1.v201008170101,"org.eclipse.wst.jsdt.debug.ui",1291755555067
+started,bundle,org.eclipse.hyades.execution,4.5.0.v201005071900,"org.eclipse.hyades.execution",1291755555337
+started,bundle,org.eclipse.tptp.platform.models.hierarchy,4.7.1.v201009021900,"org.eclipse.tptp.platform.models.hierarchy",1291755555424
+started,bundle,org.eclipse.tptp.platform.common.ui,4.4.300.v201005281426,"org.eclipse.tptp.platform.common.ui",1291755555468
+started,bundle,org.eclipse.tptp.platform.common,4.4.1.v201009092123,"org.eclipse.tptp.platform.common",1291755555469
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755560497
+started,bundle,org.eclipse.hyades.trace.ui,4.5.101.v201009092123,"org.eclipse.hyades.trace.ui",1291755560575
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755684390
+activated,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.AllMarkersView",1291755684400
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755690327
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755693112
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755694647
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755964899
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755982620
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291755982698
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756047888
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756059443
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756068794
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756089158
+activated,view,org.eclipse.ui.navigator.resources,3.4.200.I20100601-0800,"org.eclipse.ui.navigator.ProjectExplorer",1291756097073
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756102383
+activated,perspective,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.JavaPerspective",1291756115387
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1291756115390
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756115517
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291756119313
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756125637
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756269323
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291756269382
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756269728
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756269964
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756273672
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756332401
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756349920
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756370214
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291756378001
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291756380868
+closed,editor,org.eclipse.wst.xml.ui,1.1.102.v201008251905,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1291756380868
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291756380878
+closed,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291756380907
+closed,editor,org.eclipse.jst.jsp.ui,1.1.501.v201008232032,"org.eclipse.jst.jsp.core.jspsource.source",1291756380923
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756391404
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756391467
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756393692
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756400149
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756400190
+opened,editor,org.eclipse.wst.xml.ui,1.1.102.v201008251905,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1291756404320
+activated,editor,org.eclipse.wst.xml.ui,1.1.102.v201008251905,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1291756404381
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756459201
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756508848
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756511074
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756575036
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756577509
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756587478
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291756591081
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756599838
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756599915
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756608364
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756629322
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756631687
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756647697
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756647740
+opened,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291756664930
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291756665148
+activated,view,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.views.ProblemView",1291756670561
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756696252
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756703848
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756707667
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756782929
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291756790104
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756794491
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756885014
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291756885056
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756891931
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756949988
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.properties",1291756950042
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756952601
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291756958569
+activated,editor,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.CompilationUnitEditor",1291756971226
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1291756971770
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291757011656
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1291757051013
+activated,view,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui.PackageExplorer",1291757051097
